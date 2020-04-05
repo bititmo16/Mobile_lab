@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1586010873 source:c:\users\quanglz\desktop\lab_mobile\lab1\bill\main.cpp
+	"readCSV.h"
+
+1586010506 c:\users\quanglz\desktop\lab_mobile\lab1\bill\include\readcsv.h
+	<iostream>
+	<fstream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+
+1586010805 source:c:\users\quanglz\desktop\lab_mobile\lab1\bill\src\readcsv.cpp
+	"readCSV.h"
+
+1585850572 source:c:\users\quanglz\desktop\lab_mobile\lab1\bill\src\tariff.cpp
+	"tariff.h"
+	"readCSV.h"
+
+1585851667 c:\users\quanglz\desktop\lab_mobile\lab1\bill\include\tariff.h
+
